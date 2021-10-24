@@ -14,8 +14,6 @@
  * Use a provided class by creating object instances using the new keyword
  * Manipulate the page after it has loaded adding, removing, and updating elements on the DOM
 
-[Home Page](https://media.giphy.com/media/7xYX78HvC5d3PCuIry/giphy.gif)
-
 ## What Should Happen? 👨🏾‍💻 👩🏾‍💻
  * Every time the user clicks the Show New Random Cover button or refreshes the page, a new random cover is created & displayed
  * When a user clicks the “Make Your Own Cover” button, we should see the form, and the user can create their own book cover
@@ -24,13 +22,13 @@
  * When a user clicks the “View Saved Covers” button, we should see all the saved covers 
  * From the saved covers view, if a user double clicks a saved cover, it will be deleted
 
-[Saved Posters] ()
+![Saved Posters](https://user-images.githubusercontent.com/29051996/138606044-4a481e78-d5a4-4f4a-83bc-85d0bba7f648.png)
 
 
 ## How To Run & View 📽
 * To Run our site click on the [Deploy Link](https://gabby-recny.github.io/romcom/) 👈🏾
 
-[Make Your Own Poster](https://media.giphy.com/media/7xYX78HvC5d3PCuIry/giphy.gif)
+![home page](https://user-images.githubusercontent.com/29051996/138605976-4e5da0e5-dd22-4862-8a8c-c3d07cf4717b.png)
 
 ## Want Some Images To Use As Covers? 📚
 * When you go to make your own cover the first text form that says **Cover** needs a link/URL for the image! We provided some that are pretty diverse! 👇🏾
@@ -44,6 +42,8 @@
 * [Book Cover Option 3](https://img.wattpad.com/cover/254980310-512-k358548.jpg)
  
 * [Book Cover Option 4](https://img.wattpad.com/cover/234346226-512-k801033.jpg)
+
+![Make your own poster](https://user-images.githubusercontent.com/29051996/138606043-789ac32d-4ded-4ba4-902c-6ef81c66b53a.png)
  
 
 ## Set Up
