@@ -23,29 +23,22 @@
  * From the saved covers view, if a user double clicks a saved cover, it will be deleted
 
 ## How To Run & View 📽
-* To Run our site click on the Deploy Link below 👇🏾
-* https://gabby-recny.github.io/romcom/
+* To Run our site click on the [Deploy Link](https://gabby-recny.github.io/romcom/) 👈🏾
 
 
 ## Want Some Images To Use As Covers? 📚
 * When you go to make your own cover the first text form that says **Cover** needs a link/URL for the image! We provided some that are pretty diverse! 👇🏾
 
-* Lofi gif: 
- https://media.giphy.com/media/7xYX78HvC5d3PCuIry/giphy.gif
+* [Lofi gif](https://media.giphy.com/media/7xYX78HvC5d3PCuIry/giphy.gif)
 
-* Book Cover Option 1:      https://img.wattpad.com/c4b6f443b905bb60846d7319217358ba71ab8c80/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f6351776e5149516331766e3355413d3d2d3330302e313636343632663864623231326465363530343535333032333338362e6a7067
+* [Book Cover Option 1](https://img.wattpad.com/c4b6f443b905bb60846d7319217358ba71ab8c80/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f6351776e5149516331766e3355413d3d2d3330302e313636343632663864623231326465363530343535333032333338362e6a7067)
 
-* Book Cover Option 2: 
-  https://img.wattpad.com/cover/243918746-512-k355568.jpg
+* [Book Cover Option 2](https://img.wattpad.com/cover/243918746-512-k355568.jpg)
 
-* Book Cover Option 3:
-  https://img.wattpad.com/cover/254980310-512-k358548.jpg
+* [Book Cover Option 3](https://img.wattpad.com/cover/254980310-512-k358548.jpg)
  
-* Book Cover Option 4:
-  https://img.wattpad.com/cover/234346226-512-k801033.jpg
+* [Book Cover Option 4](https://img.wattpad.com/cover/234346226-512-k801033.jpg)
  
-
-
 
 ## Set Up
 
