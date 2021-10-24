@@ -52,30 +52,30 @@ function generateBook() {
 }
 
 function showForm() {
-  homePage.classList.add('hidden');
-  coverForm.classList.remove('hidden');
-  randomButton.classList.add('hidden');
-  saveCoverButton.classList.add('hidden');
-  homeButton.classList.remove('hidden');
+  show(coverForm);
+  show(homeButton);
+  hide(homePage);
+  hide(randomButton);
+  hide(saveCoverButton);
 }
 
 function showSavedCovers() {
-  homePage.classList.add('hidden');
-  savedView.classList.remove('hidden');
-  saveCoverButton.classList.add('hidden');
-  randomButton.classList.add('hidden');
-  homeButton.classList.remove('hidden');
+  show(savedView);
+  show(homeButton);
+  hide(homePage);
+  hide(saveCoverButton);
+  hide(randomButton);
 
   displaySavedCovers();
 }
 
 function returnToMain() {
-  homePage.classList.remove('hidden');
-  randomButton.classList.remove('hidden');
-  saveCoverButton.classList.remove('hidden');
-  savedView.classList.add('hidden');
-  homeButton.classList.add('hidden');
-  coverForm.classList.add('hidden');
+  show(homePage);
+  show(randomButton);
+  show(saveCoverButton);
+  hide(savedView);
+  hide(homeButton);
+  hide(coverForm);
 }
 
 function createCustomCover(event) {
