@@ -14,6 +14,8 @@
  * Use a provided class by creating object instances using the new keyword
  * Manipulate the page after it has loaded adding, removing, and updating elements on the DOM
 
+[Home Page](https://media.giphy.com/media/7xYX78HvC5d3PCuIry/giphy.gif)
+
 ## What Should Happen? 👨🏾‍💻 👩🏾‍💻
  * Every time the user clicks the Show New Random Cover button or refreshes the page, a new random cover is created & displayed
  * When a user clicks the “Make Your Own Cover” button, we should see the form, and the user can create their own book cover
@@ -22,9 +24,13 @@
  * When a user clicks the “View Saved Covers” button, we should see all the saved covers 
  * From the saved covers view, if a user double clicks a saved cover, it will be deleted
 
+[Saved Posters] ()
+
+
 ## How To Run & View 📽
 * To Run our site click on the [Deploy Link](https://gabby-recny.github.io/romcom/) 👈🏾
 
+[Make Your Own Poster](https://media.giphy.com/media/7xYX78HvC5d3PCuIry/giphy.gif)
 
 ## Want Some Images To Use As Covers? 📚
 * When you go to make your own cover the first text form that says **Cover** needs a link/URL for the image! We provided some that are pretty diverse! 👇🏾
