@@ -35,6 +35,14 @@ function getRandomIndex(array) {
   return Math.floor(Math.random() * array.length);
 }
 
+function show(element) {
+  element.classList.remove('hidden');
+}
+
+function hide(element) {
+  element.classList.add('hidden');
+}
+
 function generateBook() {
    currentCover = new Cover(covers[getRandomIndex(covers)], titles[getRandomIndex(titles)], descriptors[getRandomIndex(descriptors)], descriptors[getRandomIndex(descriptors)]);
    coverImage.src = currentCover.cover;
@@ -88,9 +96,7 @@ function createCustomCover(event) {
 }
 
 function saveCover() {
-  if(savedCovers.includes(currentCover)) {
-    return currentCover
-  } else {
+  if(!savedCovers.includes(currentCover)) {
     savedCovers.push(currentCover);
   }
 }
@@ -99,12 +105,11 @@ function displaySavedCovers() {
   savedCoversSection.innerHTML = '';
   for(var i = 0; i < savedCovers.length; i++) {
     savedCoversSection.innerHTML +=
-    ` <section class="mini-cover" id =${savedCovers[i].id}>
+     `<section class="mini-cover" id =${savedCovers[i].id}>
         <img class="cover-image" src="${savedCovers[i].cover}">
         <h2 class="cover-title">${savedCovers[i].title}</h2>
         <h3 class="tagline">A tale of <span class="tagline-1">${savedCovers[i].tagline1}</span> and <span class="tagline-2">${savedCovers[i].tagline2}</span></h3>
-      </section>
-      `
+      </section>`
   }
 }
 
